@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_token">1079fbec69e54cd382d1c2c1551dd6e9</string>
+    <string name="api_response_control">minified</string>
+</resources>

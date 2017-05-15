@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestSymphonySolutions</string>
+    <string name="league">LEAGUE:</string>
+    <string name="year">YEAR:</string>
+    <string name="match_day">MATCH DAY:</string>
+    <string name="match_days">MATCH DAYS:</string>
+    <string name="teams">TEAMS:</string>
+    <string name="games">GAMES:</string>
+    <string name="teams_title">TEAMS</string>
+    <string name="seasons">SEASONS</string>
+    <string name="exit">Выйти</string>
+    <string name="repeat">Повторить</string>
+
+    <!-- Error dialog messages -->
+    <string name="error_dialog_title_no_connection">Нет соединения</string>
+    <string name="error_dialog_message_no_connection">Проверьте подключение и повторите попытку</string>
+</resources>
